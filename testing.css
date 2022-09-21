@@ -1,4 +1,5 @@
-/* desde la terminal voy a la rama master, compruebo que estoy en esa rama y hago el merge*/
+/* crear un archivo css, establecer parametros, adjuntar el archivo a la rama desde la terminal, commit
+y comprobar commit */
 body{
     background-color: aliceblue;
     text-align: center;
