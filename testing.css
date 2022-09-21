@@ -1,0 +1,12 @@
+/* crear un archivo css, establecer parametros, adjuntar el archivo a la rama desde la terminal, commit
+y comprobar commit */
+body{
+    background-color: aliceblue;
+    text-align: center;
+}
+h1{
+    color: aliceblue;
+    background-color: aqua;
+    font-size: 80px;
+    padding: 20px;
+}
